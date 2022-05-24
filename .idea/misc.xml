@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/COVID-19-DataApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2115" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/COVID-19-DataApp/app/src/main/res/drawable/ic_all_inclusive_black_24dp.xml" value="0.2115" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/COVID-19-DataApp/app/src/main/res/drawable/ic_flag_black_24dp.xml" value="0.2115" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/COVID-19-DataApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2115" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/COVID-19-DataApp/app/src/main/res/drawable/ic_person_black_24dp.xml" value="0.2115" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/COVID-19-DataApp/app/src/main/res/drawable/round.xml" value="0.2115" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/COVID-19-DataApp/app/src/main/res/font/fonting.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/COVID-19-DataApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/COVID-19-DataApp/app/src/main/res/layout/activity_splash.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/COVID-19-DataApp/app/src/main/res/layout/country_wise_list_activity.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/COVID-19-DataApp/app/src/main/res/layout/detail_of_country.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/COVID-19-DataApp/app/src/main/res/layout/items.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/COVID-19-DataApp/app/src/main/res/layout/list_item.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/COVID-19-DataApp/app/src/main/res/layout/model.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Covi19-App_GDSC-VITBHOPAL/app/src/main/res/layout/activity_main.xml" value="0.2990353697749196" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Covi19-App_GDSC-VITBHOPAL/app/src/main/res/layout/activity_splash.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/Covi19-App_GDSC-VITBHOPAL/app/src/main/res/layout/detail_of_country.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/hp/Downloads/COVID-19-DataApp-master/app/src/main/res/layout/activity_main.xml" value="0.2682291666666667" />
+        <entry key="..\:/Users/lohar/OneDrive/Documents/GitHub Projects/COVID-19-DataApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/lohar/OneDrive/Documents/GitHub Projects/COVID-19-DataApp/app/src/main/res/layout/activity_splash.xml" value="0.209375" />
+        <entry key="..\:/Users/lohar/OneDrive/Documents/GitHub Projects/COVID-19-DataApp/app/src/main/res/layout/country_wise_list_activity.xml" value="0.25" />
+        <entry key="..\:/Users/lohar/OneDrive/Documents/GitHub Projects/COVID-19-DataApp/app/src/main/res/layout/detail_of_country.xml" value="0.209375" />
+        <entry key="..\:/Users/lohar/OneDrive/Documents/GitHub Projects/Covi19-App_GDSC-VITBHOPAL/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/lohar/OneDrive/Documents/GitHub Projects/Covi19-App_GDSC-VITBHOPAL/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/lohar/OneDrive/Documents/GitHub Projects/Covi19-App_GDSC-VITBHOPAL/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/lohar/OneDrive/Documents/GitHub Projects/Covid19-App_GDSC-VITBHOPAL/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/lohar/OneDrive/Documents/GitHub Projects/Covid19-App_GDSC-VITBHOPAL/app/src/main/res/layout/country_wise_list_activity.xml" value="0.22" />
+        <entry key="..\:/Users/lohar/OneDrive/Documents/GitHub Projects/Covid19-App_GDSC-VITBHOPAL/app/src/main/res/menu/navig_bar.xml" value="0.18611111111111112" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

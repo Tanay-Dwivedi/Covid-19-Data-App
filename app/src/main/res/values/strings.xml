@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CoronaApp</string>
+    <string name="all_data">All data</string>
+    <string name="countries">Countries</string>
+    <string name="about">About</string>
+    <string name="check">Check</string>
+    <string name="country_list">Country List</string>
+    <string name="totalCases">Total Cases: </string>
+    <string name="todayCases">Cases Today: </string>
+    <string name="totalDeaths">Total Deaths: </string>
+    <string name="todayDeaths">Deaths Today: </string>
+    <string name="totalRecovered">Total Recovered: </string>
+</resources>
